@@ -3,7 +3,7 @@ name = "vanet-viz"
 version = "0.1.0"
 description = "Visualization for VANET Temporal Graphs, focusing on the VeReMi dataset"
 authors = ["h8rtv"]
-license = "LICENSE"
+license = "MIT"
 readme = "README.md"
 packages = [{ include = "vanet_viz" }]
 
